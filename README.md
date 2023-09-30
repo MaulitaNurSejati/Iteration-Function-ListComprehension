@@ -58,8 +58,10 @@ The iterable can be any iterable object. You can use the range() function to cre
  
 By default in Python, when a function is declared, its parameters are positioned in the order in which they were defined. For the function to be invoked correctly, the parameters must be called in the same order.
 
-### return
+### Return
 -	The function will terminate the execution of the program and simultaneously return a specific value when the return statement is used with the assigned expression.
 -	The return value of a function can be stored in a variable, which distinguishes it from a void function, which has no return value. It is this defining feature that determines whether a value is returned or not.
  ![image](https://github.com/MaulitaNurSejati/Iteration-Function-ListComprehension/assets/135823289/60f86930-0daa-4064-a932-32ee558a6b2d)
+
+
 
