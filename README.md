@@ -1,5 +1,9 @@
 # Iteration-Function-ListComprehension
 
+Welcome to the Python Beginners Guide Part 2! 🐍
+
+This README will build upon your Python knowledge by introducing more concepts and control structures that will help you become a proficient Python programmer
+
 ## 1. Break
 In Python, the break statement is a control statement used to exit a loop prematurely. It allows you to terminate the current loop and resume execution of the program after the loop. Here's a simple explanation of how the break statement works:
 
