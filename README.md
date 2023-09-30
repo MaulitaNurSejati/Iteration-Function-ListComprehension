@@ -24,7 +24,7 @@ When a continue statement is encountered inside a loop, it immediately stops the
 The while statement in Python is used for creating loops that continue executing a block of code as long as a specified condition is True. It repeatedly checks the condition before each iteration and stops when the condition becomes False. The while loop allows you to automate repetitive tasks and control the flow of your program based on changing conditions.
 ![image](https://github.com/MaulitaNurSejati/Iteration-Function-ListComprehension/assets/135823289/3d2bea27-05d8-4c69-844f-58f61d4fc2bc)
 
-### ELse-while
+### Else-while
 In a while statement, the else block will always be executed when the condition in the while statement becomes False.
 ![image](https://github.com/MaulitaNurSejati/Iteration-Function-ListComprehension/assets/135823289/7738f332-8467-459f-a412-af143513d9b6)
 
